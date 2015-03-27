@@ -1,6 +1,7 @@
 var endpoint = "/MeliStats/busqueda/buscar"
 var ultimabusqueda = ""
 
+
 $(document).ready(function(){
 
 
